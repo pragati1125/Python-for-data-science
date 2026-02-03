@@ -11,5 +11,5 @@ This repository documents my learning journey in Data Science using Python.
 - NumPy
 - Pandas
 - Matplotlib / Seaborn
-
+-Scikit Learn
 Goal: Build strong foundations in Data Science step by step.
